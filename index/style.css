@@ -1,0 +1,17 @@
+table {
+    margin-right: 25%;
+    margin-left: 25%;
+    border-collapse: collapse;
+    width: 50%;
+  }
+  
+  td, th {
+    border: 5px solid black;
+    text-align: left;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  caption{
+    font-size: 40px;
+  }
